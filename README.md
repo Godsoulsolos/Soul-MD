@@ -21,7 +21,7 @@ SOUL-MD Multi Device Whatsapp Bot.
 
 1. Fork The Repo
     <br>
-<a href="https://github.com/Godsoulsolos/Godsoulsolos/fork"><img title="ABHISHEK-SER" src="https://img.shields.io/badge/FORK ABHISHEK SER-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Godsoulsolos/Godsoulsolos/fork"><img title="SOUL-MD" src="https://img.shields.io/badge/FORK SOUL MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan The Qr Code And Upload abhi.data.json To Your Fork🎯(Will Recieve It On Your Bot Number After Scanning)
     <br>
@@ -29,7 +29,7 @@ SOUL-MD Multi Device Whatsapp Bot.
 
 
 
-## ABHISHEK-SER Deploy Method
+## SOUL-MD Deploy Method
 
 -------
 
