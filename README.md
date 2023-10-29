@@ -1,5 +1,5 @@
   <p align="center">  
- <img alt=anime height="550"src=src="Screenshot_20231027-103735.png">
+ <img src="https://i.ibb.co/nPYVtwV/queen-elisa-new-logo-600-600.jpg" width="300" height="300"/>
     <h1 align="center">Secktor MD Whatsapp bot</h1>
   </a>
 </p>
