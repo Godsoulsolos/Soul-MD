@@ -1,5 +1,4 @@
-  <p align="center">  
-    <img alt="secktor docs" height="300" src="https://photos.app.goo.gl/K3U4Tz5a7H8GmDUHA">
+  <p align="center">   src="https://photos.app.goo.gl/K3U4Tz5a7H8GmDUHA">
     <h1 align="center">Secktor MD Whatsapp bot</h1>
   </a>
 </p>
