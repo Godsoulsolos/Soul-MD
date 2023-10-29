@@ -1,5 +1,5 @@
   <p align="center">  
- <img src="https://pin.it/U21FmEE"/>
+ <img src="https://pin.it/U21FmEE.jpg"/>
     <h1 align="center">Secktor MD Whatsapp bot</h1>
   </a>
 </p>
