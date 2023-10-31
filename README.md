@@ -1,6 +1,6 @@
   <p align="center">  
- <img src="https://pin.it/U21FmEE.jpg"/>
-    <h1 align="center">Secktor MD Whatsapp bot</h1>
+<img alt=ABHISHEK-SER height="300" src="https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png">    
+<h1 align="center">Secktor MD Whatsapp bot</h1>
   </a>
 </p>
    
