@@ -1,5 +1,5 @@
   <p align="center">  
-<img alt=ABHISHEK-SER height="300" src="https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png">    
+<img alt=ABHISHEK-SER height="300" src="https://photos.app.goo.gl/K3U4Tz5a7H8GmDUHA">    
 <h1 align="center">Secktor MD Whatsapp bot</h1>
   </a>
 </p>
