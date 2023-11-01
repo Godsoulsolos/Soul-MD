@@ -20,7 +20,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Godsoulsolos}/count.svg" alt="Godsoulsolos :: Visitor's Count" /></p>
 
-  <p align="center"> Introducing SOUL-MD,SOUL-MD is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+  <p align="center"> Introducing SOUL-MD....SOUL-MD is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
  
  ***<p align="center"> Support us by forking our bots repo </p>***
  
@@ -35,7 +35,7 @@
 - Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
 ## Deployment Methods
 ---
-1. ***Get [SESSION-ID](https://replit.com/@looneyffkun/Soul-MD?s=app) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [SESSION-ID](https://replit.com/@looneyffkun/Soul-MD?s=app) by scanning QR code. `Whatsapp>Three dots>Linked Devices`***
 2.  ***Get a Mongodb uri from [Mongodb](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI) | [Tutorial](https://www.youtube.com/watch?v=WWrpBCBlyuo).***
 
 
