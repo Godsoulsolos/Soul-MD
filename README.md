@@ -86,8 +86,8 @@ Copy the JSON down and paste in repl then fill the vars
 - Star ⭐ repo if you like SOUL-MD.
 ### Thanks To
 
-- [Yusuf Usta](https://github.com/yusufusta) for Ideas
+- [GODSOUL](https://github.com/Godsoulsolos) for Ideas
 
 ## License
 
-The Secktor is made available under the [GPL-3 license](https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE). 
+SOUL-MD is made available under the [GPL-3 license](https://github.com/Godsoulsolos/Soul-MD/blob/main/LICENCE). 
