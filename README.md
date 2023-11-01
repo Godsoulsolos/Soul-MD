@@ -45,7 +45,7 @@ mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority
 ```
 3.  ***Click [FORK](https://github.com/SamPandey001/Secktor-MD/fork)***
 ## Heroku Deployment Method
-4.  ***Deploy on [Heroku](https://secktorub-b34f1c3c60d3.herokuapp.com//heroku)***
+4.  ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/Godsoulsolos/Souls-Md) ***
 ## Koyeb Deployment Method
 5. ***[Deploy on Koyeb](https://secktorub-b34f1c3c60d3.herokuapp.com/koyeb) and get API KEY from [here.](https://app.koyeb.com/settings/api)*** .
 
