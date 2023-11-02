@@ -38,14 +38,14 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="911234567890"
+      OWNER_NUMBER="2349070616688"
       MONGODB_URI="mongodb+srv://*************"
       SESSION_ID = "secktorbot.herokuapp.com/session"
       THUMB_IMAGE = "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png"
       port = 5000
       email = "sam@secktor.live"
       global_url = "instagram.com"
-      OWNER_NAME = "SamPandey001"
+      OWNER_NAME = "SOUL"
       AUTO_REACTION = false
       FAKE_COUNTRY_CODE = 92
       READ_MESSAGE = false
@@ -55,9 +55,9 @@
       ANTI_BAD_WORD = "fuck"
       LEVEL_UP_MESSAGE= true
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
-      THEME= SECKTOR
-      WORKTYPE = public
-      PACK_INFO = "Sam;Pandey"
+      THEME= SOUL
+      WORKTYPE = private
+      PACK_INFO = "SOUL;MD"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```
