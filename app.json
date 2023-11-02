@@ -2,7 +2,7 @@
   "name": "SOUL--MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/97de15827fc042644a964.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "soulbot", "Secktor","SOULMD","theme bot","multi device","baileys","rika"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "soulbot","SOULMD","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
@@ -67,7 +67,7 @@
        "value": "2349070616688"
   },
    "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,RIKA-MD"
+    "description": "Please put your SESSION_ID here,SOUL-MD"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -79,7 +79,7 @@
     "value": "mongodb://uufpxy0mfyeykbrxkjpk:m1b0dsDODVFWlBy3AF3@bufirembtiksxw6ni25m-mongodb.services.clever-cloud.com:2533/bufirembtiksxw6ni25m "
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are RIKA,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
+    "description": "Put the theme name you want to use. Avilable themes are NEZUKO,LUFFY,GOKU,SOUL nd many more..",
      "value": "SOUL"
   },
     "WORKTYPE": {
@@ -93,7 +93,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "rika;mendoska",
+     "value": "SOUL;MD",
      "required": false 
   },
   "heroku": {
