@@ -1,7 +1,7 @@
-<div align="center">
+ <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+SOUL-MD;Multi+Divice+Whatsapp+Bot;Coded+By+GODSOUL" alt="Typing SVG" /></a>
   <p align="center">  
-<img alt=ABHISHEK-SER height="300" src="https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png">     
+<img alt=ABHISHEK-SER height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPti4dtLlm9l4SUAI2pZUQpBv5_ZZARW4llEZsMJGlzRhcnLpGv8PetQ&s=10/out.png">     
 <h1 align="center">SOUL MD Whatsapp bot</h1>
   </a>
 </p>
