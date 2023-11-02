@@ -32,6 +32,7 @@
     <h1 align="center">Tap on above Image</h1>
   </a>
 </p>
+<a href="https://heroku.com/deploy?template=https://github.com/Godsoulsolos/Soul-MD">
      <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 
