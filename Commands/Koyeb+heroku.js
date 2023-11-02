@@ -4,7 +4,7 @@
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
  * @project_name : SOUL-MD
- * @author : @Layefa7 <https://github.com/Godsoulsolos>
+ * @author : @Looneyffkun <https://github.com/Godsoulsolos>
  * @description : Soul,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
