@@ -5,7 +5,7 @@
  It is supplied in the hope that it may be useful.
  * @project_name : Soul-MD
  * @author : looneyffkun <https://github.com/Godsoulsolos>
- * @description : Secktor,A Multi-functional whatsapp bot.
+ * @description : Soul-MD,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 const axios = require('axios');
